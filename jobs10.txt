@@ -1,0 +1,10 @@
+terry-furor 4 0 48 140
+ample-roads 1 38 40 192
+mixes-tones 8 53 33 135
+samba-inked 4 100 87 296
+fetch-strum 2 130 75 318
+roses-octet 5 141 52 365
+crude-maybe 9 172 78 345
+snare-ideal 8 192 18 358
+aging-sated 2 239 75 436
+mural-savor 4 250 36 313
